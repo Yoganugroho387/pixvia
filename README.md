@@ -18,13 +18,12 @@
   </p>
 
   <p>
+    <a href="USER_GUIDE.md"><strong>Buku Panduan Pengguna (User Guide)</strong></a> •
     <a href="#fitur-utama">Fitur Utama</a> •
     <a href="#arsitektur-multi-layer">Arsitektur AI & Storage</a> •
     <a href="#panduan-instalasi">Panduan Instalasi</a> •
-    <a href="#kredensial-demo">Kredensial Demo</a> •
-    <a href="#skema-database">Database</a>
+    <a href="#kredensial-demo">Kredensial Demo</a>
   </p>
-
 </div>
 
 <hr />
